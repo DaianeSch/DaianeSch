@@ -1,6 +1,5 @@
 ### Olá, eu sou Daiane Schmedler
 
-- 💼 Hoje trabalho como Escrevente Notarial
 - 💻 Cursando - Análise e Desenvolvimento de Sistemas
 
 <div>
